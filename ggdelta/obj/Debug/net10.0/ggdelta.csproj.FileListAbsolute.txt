@@ -1,0 +1,15 @@
+C:\grupodelta\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.exe
+C:\grupodelta\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.deps.json
+C:\grupodelta\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.runtimeconfig.json
+C:\grupodelta\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.dll
+C:\grupodelta\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.pdb
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.GeneratedMSBuildEditorConfig.editorconfig
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.AssemblyInfoInputs.cache
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.AssemblyInfo.cs
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.csproj.CoreCompileInputs.cache
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.sourcelink.json
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.dll
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\refint\ggdelta.dll
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.pdb
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.genruntimeconfig.cache
+C:\grupodelta\grupodelta\ggdelta\obj\Debug\net10.0\ref\ggdelta.dll

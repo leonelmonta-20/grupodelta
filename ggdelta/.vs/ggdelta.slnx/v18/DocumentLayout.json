@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\grupodelta\\grupodelta\\ggdelta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6741C5D6-673B-4D0C-AF4C-97941FACA725}|ggdelta.csproj|c:\\grupodelta\\grupodelta\\ggdelta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6741C5D6-673B-4D0C-AF4C-97941FACA725}|ggdelta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|c:\\grupodelta\\grupodelta\\ggdelta\\clase.2\\cmundocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|solutionrelative:clase.2\\cmundocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|c:\\grupodelta\\grupodelta\\ggdelta\\ggdelta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|solutionrelative:ggdelta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|c:\\grupodelta\\grupodelta\\ggdelta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10071EC-C2D6-9F2C-129F-88838F37ABAE}|ggdelta.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ggdelta",
+              "DocumentMoniker": "C:\\grupodelta\\grupodelta\\ggdelta\\ggdelta.csproj",
+              "RelativeDocumentMoniker": "ggdelta.csproj",
+              "ToolTip": "C:\\grupodelta\\grupodelta\\ggdelta\\ggdelta.csproj",
+              "RelativeToolTip": "ggdelta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T18:35:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cmundocs.cs",
+              "DocumentMoniker": "C:\\grupodelta\\grupodelta\\ggdelta\\clase.2\\Cmundocs.cs",
+              "RelativeDocumentMoniker": "clase.2\\Cmundocs.cs",
+              "ToolTip": "C:\\grupodelta\\grupodelta\\ggdelta\\clase.2\\Cmundocs.cs",
+              "RelativeToolTip": "clase.2\\Cmundocs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T18:33:29.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\grupodelta\\grupodelta\\ggdelta\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\grupodelta\\grupodelta\\ggdelta\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T18:23:52.932Z",
               "EditorCaption": ""
