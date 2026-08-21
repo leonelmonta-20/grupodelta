@@ -1,0 +1,15 @@
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.exe
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.deps.json
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.runtimeconfig.json
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.dll
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\bin\Debug\net10.0\ggdelta.pdb
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.AssemblyInfoInputs.cache
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.AssemblyInfo.cs
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.csproj.CoreCompileInputs.cache
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.sourcelink.json
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.dll
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\refint\ggdelta.dll
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.pdb
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ggdelta.genruntimeconfig.cache
+C:\Users\teo\Documents\GitHub\grupodelta\ggdelta\obj\Debug\net10.0\ref\ggdelta.dll

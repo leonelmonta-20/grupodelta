@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\teo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\grupodelta\\grupodelta\\ggdelta\\ggdelta.csproj",
+      "projectUniqueName": "C:\\Users\\teo\\Documents\\GitHub\\grupodelta\\ggdelta\\ggdelta.csproj",
       "projectName": "ggdelta",
-      "projectPath": "C:\\grupodelta\\grupodelta\\ggdelta\\ggdelta.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\grupodelta\\grupodelta\\ggdelta\\obj\\",
+      "projectPath": "C:\\Users\\teo\\Documents\\GitHub\\grupodelta\\ggdelta\\ggdelta.csproj",
+      "packagesPath": "C:\\Users\\teo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\teo\\Documents\\GitHub\\grupodelta\\ggdelta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\teo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
